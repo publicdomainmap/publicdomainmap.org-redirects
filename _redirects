@@ -1,0 +1,13 @@
+/                                                   https://openstreetmap.us/our-work/public-domain-map      301
+/about                                              https://openstreetmap.us/our-work/public-domain-map      301
+/blog/tooldemo-mappingusa                           https://openstreetmap.us/events/mapping-usa/2022/intro-to-public-domain-map      301
+/blog/fedgeoday-2022                                https://openstreetmap.us/appearances/2022/11/augmenting-authoritative-data-with-public-domain-map      301
+/blog/investigating-public-domain-collaboration     https://openstreetmap.us/news/2021/05/gov-committee-pilot      301
+/pilot                                              https://openstreetmap.us/our-work/public-domain-map/pilot      301
+/pilot/part-2                                       https://openstreetmap.us/our-work/public-domain-map/pilot/mapping      301
+/pilot/validation                                   https://openstreetmap.us/our-work/public-domain-map/pilot/validation      301
+/license                                            https://openstreetmap.us/our-work/public-domain-map/license      301
+/news                                               https://openstreetmap.us/tags/public-domain-map      301
+/slides/*                                           https://openstreetmap.us/download/slides/public-domain-map/:splat      301
+/assets/images/*                                    https://openstreetmap.us/img/pages/public-domain-map/:splat      301
+/*                                                  https://openstreetmap.us/our-work/public-domain-map      301
